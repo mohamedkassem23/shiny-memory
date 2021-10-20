@@ -1,0 +1,1 @@
+sed '4s#"$# --cloud-provider=external"#' 10-kubeadm.conf
